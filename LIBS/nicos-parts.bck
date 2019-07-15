@@ -1,0 +1,133 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATMEGA32U4-RC-MU
+D QFN44, 16K Flash, 1.25K SRAM, 512B EEPROM, USB2.0
+K AVR 8bit Microcontroller MegaAVR USB
+F http://www.atmel.com/images/atmel-7766-8-bit-avr-atmega16u4-32u4_%20datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA32U4RC-MU
+D QFN44, 32K Flash, 2.5K SRAM, 1K EEPROM, USB2.0
+K AVR 8bit Microcontroller MegaAVR USB
+F http://www.atmel.com/images/atmel-7766-8-bit-avr-atmega16u4-32u4_%20datasheet.pdf
+$ENDCMP
+#
+$CMP DMC1030UFDBQ
+D 3A Id, 30V Vds, Dual HEXFET MOSFET, SO-8
+K Dual HEXFET N-Channel P-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf7309ipbf.pdf
+$ENDCMP
+#
+$CMP DMN1004UFDF
+D 50V Vds, 0.22 A Id, N-channel MOSFET, SOT-23
+K N-Channel MOSFET
+F https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP FDS4559
+D 4.5A Id, 60V Vds, Dual N and P Channel MOSFET, 55mOhm Ron, 10V Vgs, SO8L
+K Dual N-Channel P-Channel MOSFET
+F https://www.fairchildsemi.com/datasheets/FD/FDS4559.pdf
+$ENDCMP
+#
+$CMP FDS4897AC
+D 6.1A Id, 40V Vds, Dual N and P Channel MOSFET, 26mOhm Ron, 10V Vgs, SO8L
+K Dual N-Channel P-Channel MOSFET
+F https://www.fairchildsemi.com/datasheets/FD/FDS4897AC.pdf
+$ENDCMP
+#
+$CMP FDS4897C
+D 6.2A Id, 40V Vds, Dual N and P Channel MOSFET, 29mOhm Ron, 10V Vgs, SO8L
+K Dual N-Channel P-Channel MOSFET
+F https://www.fairchildsemi.com/datasheets/FD/FDS4897C.pdf
+$ENDCMP
+#
+$CMP FDS8960C
+D 7A Id, 35V Vds, Dual N and P Channel MOSFET, 24mOhm Ron, 10V Vgs, SO8L
+K Dual N-Channel P-Channel MOSFET
+F https://www.fairchildsemi.com/datasheets/FD/FDS8960C.pdf
+$ENDCMP
+#
+$CMP FDS9934C
+D 6.5A Id, 20V Vds, Dual N and P Channel MOSFET, 30mOhm Ron, 4.5V Vgs, SO8L
+K Dual N-Channel P-Channel MOSFET
+F https://www.fairchildsemi.com/datasheets/FD/FDS9934C.pdf
+$ENDCMP
+#
+$CMP IRF7343PBF
+D 4A Id, 55V Vds, Dual HEXFET MOSFET, SO-8
+K Dual HEXFET N-Channel P-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf7343ipbf.pdf
+$ENDCMP
+#
+$CMP LD39015M10R
+D 150mA low quiescent current low noise voltage regulator, Fixed Output 1.0V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/resource/en/datasheet/ld39015.pdf
+$ENDCMP
+#
+$CMP LD39015M125R
+D 150mA low quiescent current low noise voltage regulator, Fixed Output 1.25V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/resource/en/datasheet/ld39015.pdf
+$ENDCMP
+#
+$CMP LD39015M12R
+D 150mA low quiescent current low noise voltage regulator, Fixed Output 1.2V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/resource/en/datasheet/ld39015.pdf
+$ENDCMP
+#
+$CMP LD39015M15R
+D 150mA low quiescent current low noise voltage regulator, Fixed Output 1.5V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/resource/en/datasheet/ld39015.pdf
+$ENDCMP
+#
+$CMP LD39015M18R
+D 150mA low quiescent current low noise voltage regulator, Fixed Output 1.8V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/resource/en/datasheet/ld39015.pdf
+$ENDCMP
+#
+$CMP LD39015M25R
+D 150mA low quiescent current low noise voltage regulator, Fixed Output 2.5V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/resource/en/datasheet/ld39015.pdf
+$ENDCMP
+#
+$CMP LD39015M33R
+D 150mA low quiescent current low noise voltage regulator, Fixed Output 3.3V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/resource/en/datasheet/ld39015.pdf
+$ENDCMP
+#
+$CMP LD39020-UDFN4
+D 150mA low quiescent current low noise voltage regulator, Fixed Output 0.8V, SOT-23-5
+K 150mA LDO Regulator Fixed Positive
+F http://www.st.com/resource/en/datasheet/ld39015.pdf
+$ENDCMP
+#
+$CMP LIPOCHRG_Dio5158_DFN10
+D LIPO charge controller
+$ENDCMP
+#
+$CMP Si4532DY
+D 3.9A Id, 30V Vds, Dual N and P Channel MOSFET, 65mOhm Ron, 10V Vgs, SO8L
+K Dual N-Channel P-Channel MOSFET
+F https://www.fairchildsemi.com/datasheets/SI/SI4532DY.pdf
+$ENDCMP
+#
+$CMP Si4542DY
+D Dual N and P Channel MOSFET, 6A Id, 30V Vds, 28mOhm Ron, 10V Vgs, SO8L
+K Dual N-Channel P-Channel MOSFET
+F https://www.fairchildsemi.com/datasheets/SI/SI4542DY.pdf
+$ENDCMP
+#
+$CMP nano_switc_with_mnt_pads
+D 1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+F ~
+$ENDCMP
+#
+#End Doc Library
